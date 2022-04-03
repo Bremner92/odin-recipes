@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(47, 68, 84);
+    font-size: 12.5px;
+    margin: 50px, 0px, 100px, 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: azure;
+}
+
+img{
+    height: 300px;
+    width: 300px;    
+}
+p,
+ol,
+ul{
+    width: 600px;
+}
+h1,
+h2,
+h3,
+h5,
+.section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
